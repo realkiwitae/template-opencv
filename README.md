@@ -1,4 +1,3 @@
-# Edit document
-
-1. Select ROI uses inpainting to remove detected foreground
-2. Select item (new roi) to paste in cleared ROI.
+# OPENCV TEMPLATE
+A code sample to get started with opencv
+video processing
